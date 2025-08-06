@@ -1,0 +1,50 @@
+{
+  "name": "knuswonen-nextjs",
+  "version": "1.0.0",
+  "description": "Modern, responsive website for KnusWonen built with Next.js 15 and TypeScript",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^15.4.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "lucide-react": "^0.469.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.17",
+    "@types/react-dom": "^18.3.5",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.4.5",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "sustainable-housing",
+    "knuswonen",
+    "real-estate",
+    "energy-efficient"
+  ],
+  "author": "Malibongwe Hlongwane",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MalibongweHlongwane/KnusWonen.git"
+  },
+  "homepage": "https://github.com/MalibongweHlongwane/KnusWonen",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
