@@ -4,7 +4,7 @@ A modern, responsive website for KnusWonen, specializing in energy-efficient and
 
 ## 🎯 Project Overview
 
-This project demonstrates a **pixel-perfect implementation** of the KnusWonen Figma design, translated into a modern Next.js application with exact dimensions, typography, and visual elements matching the original design specifications.
+This project aims for as close to pixel-perfect implementation as possible given the available time and tooling. While some visual nuances (such as gradients or spacing precision) may slightly differ, the overall layout, component structure, and design intent are preserved.
 
 ## 🚀 Technology Stack
 
