@@ -245,12 +245,7 @@ npm run start
 - Best practices for file naming and folder structure
 
 ### 2. Pixel-Perfect Implementation ✅
-
-- Figma design translated with exact precision
-- All elements match typography, spacing, and design specifications
-- Custom CSS variables for consistent theming
-- Image assets properly integrated
-
+I tried my best, willing to learn, would have done better if I had enough time.
 ### 3. Responsive Design ✅
 
 - Tailwind CSS utilities for responsive breakpoints
@@ -271,14 +266,19 @@ npm run start
 -Should I implement any specific ARIA attributes?
 -The design only includes desktop version. Could you provide mobile and tablet mockups?
 
-- All design specifications accurately implemented
-- Interactive elements match design intentions
-- Color accuracy and typography fidelity maintained
-- Responsive behavior aligns with design system
+1. The curved purple background in the hero section is not easy to replicate in Tailwind using standard utilities — I would recommend providing the SVG curve or gradient asset.
+
+2. Font styles (e.g., button text weight and size) could be documented with exact Tailwind-compatible values (e.g., `text-sm`, `font-semibold`).
+
+3. For hover states, I assumed the buttons and cards have simple background or shadow transitions, but a hover design or prototype would help clarify behavior.
+
+4. The newsletter section uses a complex gradient and abstract illustration — it would be helpful to have a style guide or brand color list to accurately match them.
+
+
+### Final Comments:
+As someone with experience in Angular and Bootstrap5, I enjoyed working on this using React and TailwindCSS. This challenge helped me learn responsive Tailwind layouts, component structuring in Next.js, and working from Figma designs. I am confident that with mentorship and feedback, I’ll quickly become productive with this stack.
 
 ## 📞 Contact & Support
 
 For questions about this implementation or technical details, please refer to the component documentation or contact Malibongwe Hlongwane(Frontend Web Developer)
 0794258956
-
-**I have experience with Angular 19, but I had small exposure with ReactJS and NextJS but I am willing to learn. I am a fast learner, I can quickly get up to speed in a role**
