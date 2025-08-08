@@ -281,4 +281,3 @@ As someone with experience in Angular and Bootstrap5, I enjoyed working on this 
 ## 📞 Contact & Support
 
 For questions about this implementation or technical details, please refer to the component documentation or contact Malibongwe Hlongwane(Frontend Web Developer)
-0794258956
